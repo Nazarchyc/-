@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(60, 4, 4);
+}
+header {
+    height: 200px;
+    width: 500px;
+    border-radius: 50px;
+}
